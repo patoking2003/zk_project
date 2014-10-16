@@ -11,7 +11,7 @@ public class MainTest {
 		
 		QYeiUser qYei = new QYeiUser("YeiUser");
 		
-		System.out.println("holads  mundo");
+		System.out.println("holads  mudsfsfndo");
 		System.out.println("hola mundo");
 		
 	}
