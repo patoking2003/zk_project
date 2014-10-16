@@ -11,7 +11,7 @@ public class MainTest {
 		
 		QYeiUser qYei = new QYeiUser("YeiUser");
 		
-		
+		System.out.println("hola mundo");
 		
 	}
 
